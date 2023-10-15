@@ -1,0 +1,1 @@
+idf.py size <target> --build-config --chip <chip> -DOUTPUT_FORMAT=json > output.txt
